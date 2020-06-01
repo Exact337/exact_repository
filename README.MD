@@ -1,2 +1,2 @@
-# exact_repository
+# readme.txt
 This is My Repository
